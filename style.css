@@ -159,5 +159,10 @@ header {
 .active-item {
     color: #70aed2;
 }
-
 /* End of gallery */
+/* Customers */
+.customers {
+    background-color: #151f20;
+}
+
+/* end of customers */
